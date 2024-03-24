@@ -259,8 +259,8 @@
     "monkey_sub":{
         "strike": {
             "cooldown": 240,
-            "damage": 30000,
-            "bd": 30000,
+            "damage": 50000,
+            "bd": 0000,
             "pierce": 30
         },
         "aftershock": {
@@ -270,8 +270,8 @@
         },
         "fallout": {
             "damage": 10,
-            "md": 40,
-            "bd": 50,
+            "md": 60,
+            "bd": 30,
             "pierce": 120,
             "rate": 0.1
         },
